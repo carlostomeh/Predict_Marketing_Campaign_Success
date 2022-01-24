@@ -4,7 +4,7 @@
 
 ---
 
-### Project
+## Project
 
 **Students**: Carlos Danilo Tomé and Lucas Galdino de Camargo
 
@@ -19,7 +19,7 @@ According to the company's strategy, the solution must be scalable and therefore
 
 ---
 
-### 📄 Files
+## 📄 Files
 
 - Data Wrangling.ipynb  and Data Cleanning.ipynb:: In this notebook, the team performs some corrections of order of registration error or missing information. is equivalent to a "Transient" step of an ETL process.
 - Data Engineering.ipynb: In this notebook, the developers performs data transformations that are interesting for modeling this problem, such as creating new variables and regularization. 
@@ -28,7 +28,7 @@ According to the company's strategy, the solution must be scalable and therefore
 
 ---
 
-### 🎯 Cloud Infra
+## 🎯 Cloud Infra
 
 ![image](https://user-images.githubusercontent.com/41239079/150815497-b32025bb-367c-4720-8723-97dfb93f73f1.png)
 
